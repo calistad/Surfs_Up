@@ -1,4 +1,4 @@
-# surfs_up Analysis
+# Surfs Up Analysis
 
 ## Overview
 W. Avy wants more information about temperature trends before opening the surf shop. 
@@ -6,7 +6,8 @@ W. Avy wants more information about temperature trends before opening the surf s
 Thus, we will provide an analysis of temperature data for June and December in Oahu. 
 
 ### Purpose
-The purpose is to determine if the surf and ice cream shop business is sustainable year-round.
+
+To determine if the surf and ice cream shop business is sustainable year-round.
 
 We will discover some key differences in weather between these two months and provide some recommendations W.Avy.
 
